@@ -10,6 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+Markdown if one of the best script language i've ever seeen!
+
 Markdown ([mastering Markdown](https://guides.github.com/features/mastering-markdown/)) is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
