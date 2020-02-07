@@ -1,8 +1,10 @@
 # list of contributors
 bianjiang
 
+renxiaoyi
 
 zhengzc
 
+ganghuang
 
-renxiaoyi
+user1
